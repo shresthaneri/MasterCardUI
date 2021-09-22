@@ -4,17 +4,18 @@ This is the **mastercard ui design**. </br>
 So here is the preview. 
 </br>
 
-![Mastercard UI Design](readmeresources\Compressed_Mastercard_UI.png)
+![Mastercard UI Design](https://github.com/shresthaneri/MasterCardUI/blob/main/readmeresources/Compressed_Mastercard_UI.png)
 </br>
 
 ### Hey there, if you liked my design you can connect with here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></br>
 
 <a href="https://www.facebook.com/shresthaneri">
-  <img align="left" alt="Neri's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>   :Facebook</br>
+  <img align="left" alt="Neri's Facebook" width="22px" src="https://user-images.githubusercontent.com/82656387/134330212-3f98710d-80d0-4b46-bde5-477cc8623484.png" />
+</a>:[Facebook](https://www.facebook.com/shresthaneri)</br>
 <a href="https://instagram.com/shresthanerii">
   <img align="left" alt="Neri Shrestha | Instagram" width="22px" src="https://user-images.githubusercontent.com/82656387/134324788-89fce082-490d-45e6-a593-6f8bbffff28a.png" />
-</a>   :Instagram</br>
+</a>:[Instagram](https://www.instagram.com/shresthaneii)</br>
 <a href="https://www.linkedin.com/in/shresthanei/">
-  <img align="left" alt="Neri's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>   :Linkedin</br>
+  <img align="left" alt="Neri's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/82656387/134330154-601d43e5-1b9a-4d8d-9bf1-fcbff38fad90.png" />
+</a>: [LinkedIn](https://www.linkedin.com/in/shresthanei/).
+</br>
