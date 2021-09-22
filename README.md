@@ -14,8 +14,8 @@ So here is the preview.
 </a>:[Facebook](https://www.facebook.com/shresthaneri)</br>
 <a href="https://instagram.com/shresthanerii">
   <img align="left" alt="Neri Shrestha | Instagram" width="22px" src="https://user-images.githubusercontent.com/82656387/134324788-89fce082-490d-45e6-a593-6f8bbffff28a.png" />
-</a>:[Instagram](https://www.instagram.com/shresthaneii)</br>
-<a href="https://www.linkedin.com/in/shresthanei/">
+</a>:[Instagram](https://www.instagram.com/shresthanerii)</br>
+<a href="https://www.linkedin.com/in/shresthaneri/">
   <img align="left" alt="Neri's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/82656387/134330154-601d43e5-1b9a-4d8d-9bf1-fcbff38fad90.png" />
-</a>: [LinkedIn](https://www.linkedin.com/in/shresthanei/).
+</a>: [LinkedIn](https://www.linkedin.com/in/shresthaneri/).
 </br>
