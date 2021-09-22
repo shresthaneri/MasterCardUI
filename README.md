@@ -17,5 +17,5 @@ So here is the preview.
 </a>:[Instagram](https://www.instagram.com/shresthanerii)</br>
 <a href="https://www.linkedin.com/in/shresthaneri/">
   <img align="left" alt="Neri's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/82656387/134330154-601d43e5-1b9a-4d8d-9bf1-fcbff38fad90.png" />
-</a>: [LinkedIn](https://www.linkedin.com/in/shresthaneri/).
+</a>: [LinkedIn](https://www.linkedin.com/in/shresthaneri/)
 </br>
